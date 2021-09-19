@@ -1,0 +1,29 @@
+/* #header {
+  background-color: red;
+} */
+/* header {
+  background-image: url(../images/ski01.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+[data-role="header"] {
+  font-size: 1.4em;
+}
+#skier,
+#gear,
+#mtn {
+  width: 100vw;
+}
+
+.logo {
+  width: 60px;
+}
+
+#weatherContainer {
+  /* background: #9598ee; */
+  text-align: center;
+}
+#weatherContainer p {
+  margin: 5px;
+  text-transform: uppercase;
+}
